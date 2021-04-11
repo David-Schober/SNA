@@ -1,0 +1,76 @@
+EDGE-Attribute
+
+id
+(eindeutige Codierung des Knoten)
+
+weight
+Beziehungsstärke aufgrund der Nennung in den Fragen)
+3 = sehr starke Beziehung (erste Nennung),
+1 = starke Beziehung vorhanden (zweite Nennung)
+
+gespräche
+1 = täglich
+2 = min. 1x pro woche
+3 = min. 1x pro monat
+4 = seltener als 1x pro monat
+
+relation Beziehungsart zwischen den Personen
+1 = partner 
+2 = kollege
+3 = vater/mutter
+4 = kommilitone
+5 = schwester/bruder
+6 = mitglied gleicher gruppe (sport, verein, kirche)
+7 = kind
+8 = freund
+9 = nachbar
+10 = ratgeber (anwalt)
+
+dauer
+1 = weniger als 3 Jahre
+2 = 3 bis 6 Jahre
+3 = länger als 6 Jahre
+
+NODE-Attribute
+
+id
+Identische ID wie aus der edgelist zur Identifikation der Knoten. 
+
+sex
+Bitte geben Sie ihr Geschlecht an:
+1 = weiblich
+2 = männlich
+3 = divers
+
+age
+Bitte geben Sie Ihr Alter an:
+1 = 20 bis 25 Jahre
+2 = 25 bis 30 Jahre
+3 = 30 bis 35 Jahre
+4 = 35 und älter
+
+religion
+1= evangelisch
+2= katholisch
+3= jüdisch
+4= islamisch
+5= buddhistisch
+6= orthodox
+7= andere
+8= keine
+
+herkunft
+1= deutsch
+2= Mittel-/Osteuropa
+3= Südeuropa
+4= Asien
+5= andere
+
+bildungsabschluss
+1= Hauptschule
+2= Mittlere Reife
+3= Fachhochschulreife
+4= Abitur
+5= Studium
+6= Promotion
+7= weiss nicht
