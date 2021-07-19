@@ -15,13 +15,11 @@ Die Daten stammen von der Website https://www.stuttgarts-schoenster-sport.de/tea
 
 ##Edge-Attribute
 
+**from**
+Knoten, der als Startpunkt der Verbindung dient.
 
-**relation**
-
-Definiert das Verhältnis der Spielerinnen zum Verein
-
-0= aktueller Verein 
-1= ehemaliger Verein
+**to**
+Knoten, der als Endpunkt der Verbindung dient.
 
 ##Node-Attribute
 
