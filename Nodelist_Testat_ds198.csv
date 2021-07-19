@@ -1,47 +1,46 @@
-,,,,,,
-id,Name,type,birth,age,position,country
-JL,Juliet Lohuis,0,1996,3,1,1
-MT,Mira Todorova,0,1994,4,1,2
-ET,Eline Timmerman,0,1998,2,1,1
-HK,Hannah Kohn,0,2003,1,2,3
-IVV,Ilka Van de Vyver,0,1993,4,2,4
+id,name,type,birth,age,position,country
+JL,Juliet Lohuis,0,1996,3,1,2
+MT,Mira Todorova,0,1994,4,1,4
+ET,Eline Timmermann,0,1998,2,1,2
+HK,Hannah Kohn,0,2003,1,2,1
+IVV,Ilka Van der Vyver,0,1993,4,2,3
 JN,Julia Nowicka,0,1998,2,2,5
-SL,Simone Lee,0,1996,3,3,6
-MP,Maria Segura Palleres,0,1992,4,3,7
-HJ,Hester Jasper,0,1991,4,3,1
-HD,Helena Dornheim,0,2004,1,3,3
-KR,Krystal Rivers,0,1994,4,4,6
-LB,Lara Berger,0,2001,1,4,3
-RK,Roosa Koskelo,0,1991,4,5,8
-LG,Lena Grundt,0,2004,1,5,3
-SU,Set Up 65,1,,,,
-TTP,Talentteam Papendal,1,,,,
-EA,Eurosped Almelo,1,,,,
-CA,Coolen Alterno,1,,,,
-USCM,USC Muenster,1,,,,
+SL,Simone Lee,0,1996,3,3,8
+MSP,Maria Segura Palleres,0,1992,4,3,6
+HJ,Hester Jasper,0,2001,1,3,2
+HD,Helena Dornheim,0,2004,1,3,1
+KR,Krystal Rivers,0,1994,4,4,8
+LB,Lara Berger,0,2001,1,4,1
+RK,Roosa Koskelo,0,1991,4,5,7
+LG,Lena Grundt,0,2004,1,5,1
+SetUp,Set Up 65,1,,,,
+TTP,Talent Team Papendal,1,,,,
+EuAl,Eurosped Almelo,1,,,,
+CoAl,Coolen Alterno,1,,,,
+USCM,USC Munster,1,,,,
 RCC,RC Cannes,1,,,,
-VLC,Volero Le Canet,1,,,,
-VZ,Volero Zuerich,1,,,,
-LCVB,Le Canet Volley Ball,1,,,,
-SmP,Smaesch Pfeffingen,1,,,,
+VLC,Volero Le Cannet,1,,,,
+VoZu,Volero Zurich,1,,,,
+LCVB,Le Cannet Volley Ball,1,,,,
+SAP,SmAesch Pfeffingen,1,,,,
 VCM,VC Maritza,1,,,,
-AA,Alterno Apeldoorn,1,,,,
-ETw,Eurosped Twente,1,,,,
-LiBA,Ladies in Black Achen,1,,,,
+AlAp,Alterno Apeldoorn,1,,,,
+EuTw,Eurosped Twente,1,,,,
+LBA,Ladies in Black Aachen,1,,,,
 VfBU,VfB Ulm,1,,,,
-OS,Olympiastuetzpunkt Stuttgart,1,,,,
-BS,Bundesstuetzpunkt Stuttgart,1,,,,
-AK,Asterix Kieldrecht,1,,,,
+OlySt,Olympiastuetzpunkt Stuttgart,1,,,,
+BuSt,Bundesstuetzpunkt Stuttgart,1,,,,
+AsKi,Asterix Kieldrecht,1,,,,
 IBF,Il Bisonte Firenze,1,,,,
-CL,Calcit Ljubljana,1,,,,
+CaLj,Calcit Ljubljana,1,,,,
 RRV,Rote Raben Vilsbiburg,1,,,,
 CSMT,CSM Targoviste,1,,,,
 GBL,Grot Budowlani Lodz,1,,,,
-BKS,BKS Profi Credit Bielsko-Biala,1,,,,
-KS,KS Palac Bydgoszcz U20,1,,,,
+BKS,BKS Profi Credit Bielsko Biala,1,,,,
+KSP,KS Palac Bydgoszcz U20,1,,,,
 SMS,SMS PZPS Szczyrk,1,,,,
 KAF,Kurobe AquaFairies,1,,,,
-Bey,Beylikduezue,1,,,,
+Bey,Beylikduzu,1,,,,
 IVC,Imoco Volley Conegliano,1,,,,
 PSU,Penn State University,1,,,,
 BVMB,Banca Valsabbina Millenium Brescia,1,,,,
@@ -53,16 +52,16 @@ GHO,Geovillage Hermaea Olbia,1,,,,
 CVB,CV Barcelona,1,,,,
 VfBS,VfB Suhl Lotto Thueringen,1,,,,
 VCS,VC Sneek,1,,,,
-MTVS2,MTV Stuttgart II,1,,,,
-UoA,University of Alabama,1,,,,
-BA,Beziers Angels,1,,,,
-LuBa,Luka Bar (MNE),1,,,,
+MTVSt,MTV Stuttgart II,1,,,,
+UniA,University of Alabama,1,,,,
+BeAn,Beziers Angels,1,,,,
+LuBa,Luka Bar MNE,1,,,,
 FVT,FV Tuebinger Modell,1,,,,
 VCOB,VCO Berlin,1,,,,
 OKN,OK Nova KBM Branik,1,,,,
 LPV,LP Viesti,1,,,,
 LPK,LP Kangasala,1,,,,
-HL,Hämeenlinnan Lentopallokerho,1,,,,
-Kim,Kimmo,1,,,,
+HaLe,Hameenlinnan Lentopallokerho,1,,,,
+Ki,Kimmo,1,,,,
 SoPa,Someron Pallo,1,,,,
-MTVSj,Eigene Jugend MTV Stuttgart,1,,,,
+MTVj,MTV Stuttgart Jugend,1,,,,
