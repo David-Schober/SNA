@@ -21,6 +21,14 @@ Knoten, der als Startpunkt der Verbindung dient.
 **to**
 Knoten, der als Endpunkt der Verbindung dient.
 
+**relationship**
+
+Verhältnis zwischen Knoten, definiert Verbindung von Spielerin zu Verein oder Heimatland
+
+0= ehemaliger Verein
+1= Heimatland
+
+
 ##Node-Attribute
 
 **id**
