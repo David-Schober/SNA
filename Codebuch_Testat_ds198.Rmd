@@ -1,0 +1,77 @@
+---
+title: "Codebuch_Testat_ds198"
+author: "David Schober"
+date: "19 7 2021"
+output: html_document
+---
+
+## Dateiensammlung
+
+Alle Dateien (Edgelist,Nodelist, Codebuch) sind im githubverzeichnis unter https://github.com/David-Schober/SNA/tree/Testat zu finden.
+
+## Datenerhebung
+
+Die Daten stammen von der Website https://www.stuttgarts-schoenster-sport.de/team/spielerinnen.
+
+##Edge-Attribute
+
+
+**relation**
+
+Definiert das Verhältnis der Spielerinnen zum Verein
+
+0= aktueller Verein 
+1= ehemaliger Verein
+
+##Node-Attribute
+
+**id**
+
+Eindeutig identifizierbare Knoten, der zur Codierung von SPielerinnen und Vereinen dient.
+
+**name**
+
+Vollständiger Name der Spielerinnen und der Vereine.
+
+**type**
+
+Definiert die Art des Knotens
+
+0= Spielerin
+1= Verein
+
+**birth**
+
+Geburtsjahr der Spielerinnen
+
+**age**
+
+Alter der Spielerinnen, in Altersklassen unterteilt
+
+1= bis einschließlich 20
+2= 21 - 23
+3= 24 - 26
+4= 27 - 30
+
+**position**
+
+definiert Spielerposition
+
+1= Mittelblock
+2= Zuspiel
+3= Außenangriff
+4= Diagonal
+5= Libera
+
+**country**
+
+definiert das Heimatland der Spielerinnen
+
+1= Niederlande
+2= Bulgarien
+3= Deutschland
+4= Belgien
+5= Polen
+6= Vereinigte Staaten von Amerika
+7= Spanien
+8= Finnland
