@@ -44,7 +44,7 @@ Vollständiger Name der Spielerinnen und der Vereine.
 Definiert die Art des Knotens
 
 0= Spielerin
-1= Verein
+1= Verein/Heimatland
 
 **birth**
 
